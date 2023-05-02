@@ -1,2 +1,1 @@
-## Learning LangChain Framework
-
+## Simple Python AI Assistant Chat Bot
